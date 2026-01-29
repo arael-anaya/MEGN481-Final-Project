@@ -225,4 +225,4 @@ print(f"T_right @ x={x_right:.2f} in: {T_right:+.3f} lbf·in")
 
 print("\nWrote plots to ./plots and values to stage1_summary_values.csv\n")
 
-#gooning my shit craazy style rn ffrfrfr
+#im frfr gooning itttt duuuuud
